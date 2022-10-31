@@ -2,7 +2,7 @@ import axios from 'axios';
 import { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router';
 import PostList from '../../components/post/PostList';
-import { PostListDto } from '../../types/Post';
+import { PostListDto } from '../../types/PostType';
 import './PostListPage.scss'
 
 const PostListPage = (): JSX.Element => {
