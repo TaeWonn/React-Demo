@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "title": "zzz",
+      "content": "xxxx",
+      "createdAt": 1667169631894,
+      "id": 1
+    },
+    {
+      "title": "title test",
+      "content": "bodytyyy",
+      "createdAt": 1667248598092,
+      "id": 2
+    },
+    {
+      "title": "hee",
+      "content": "haaa",
+      "createdAt": 1667248672046,
+      "id": 3
+    }
+  ]
+}

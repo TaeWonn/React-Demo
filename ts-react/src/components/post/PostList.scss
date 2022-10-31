@@ -1,0 +1,24 @@
+.post-view-container {
+  border: 1px solid gray;
+  padding: 20px;
+  margin: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+
+  &:hover {
+    background-color: #3a3a3a;
+    color: white;
+  }
+
+  p {
+    margin: 5px 0;
+  }
+
+  &:hover {
+    .post-title {
+      text-decoration-line: underline;
+    }
+  }
+
+}
+
